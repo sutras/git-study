@@ -12,4 +12,4 @@ test2-modify
     - 迪杰斯特拉算法
     - RSA非对称加密算法
 
-    add some alg
+    add some alg(detached HEAD)
